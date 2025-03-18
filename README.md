@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
+</p>
 <h1 align="center">👑 Nguyễn Nhật Minh</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%F0%9F%92%B0+Ng%C6%B0%E1%BB%9Di+gi%C3%A0u+nh%E1%BA%A5t+th%E1%BA%BF+gi%E1%BB%9Bi+;🚀+Tech+Founder+%26+Innovator+;🔥+Ch%C3%BAa+t%E1%BB%83+AI+OpenSource" alt="Typing SVG" />
@@ -24,22 +27,22 @@
 
 ### 📊 Thống kê GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=minh-nguyennhat&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minh-nguyennhat&theme=dark" alt="GitHub Streak">
 </p>
 
 ---
 
 ## 🏆 Huy hiệu GitHub:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=onedark" alt="Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=minh-nguyennhat&theme=onedark" alt="Trophy">
 </p>
 
 ---
 
 ### 🌟 Ngôn ngữ sử dụng nhiều nhất:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh-nguyennhat&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -50,3 +53,7 @@
   <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/main/wave.svg" width="100%">
+</p>
+
