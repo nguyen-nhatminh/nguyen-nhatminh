@@ -56,6 +56,9 @@
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=minh-nguyennhat&theme=radical&margin-w=15)](https://github.com/minh-nguyennhat)
 
+### 🏆 GitHub Achievements
+![Achievements](https://github-profile-achievements.vercel.app/api?username=minh-nguyennhat&theme=radical)
+
 ---
 
 ## 👥 Connect with Me
