@@ -156,24 +156,24 @@ Phần này bạn có thể mô tả thêm 1-2 dự án tâm đắc nhất hoặ
 ## 📊 Thống kê GitHub
 
 <p align="center">
-  <!-- Thay `[Username]` bằng username GitHub của bạn -->
+  <!-- Thay `[minh_nguyennhat]` bằng minh_nguyennhat GitHub của bạn -->
   <!-- Có thể tùy chỉnh theme, ẩn các mục không muốn hiển thị, xem thêm tại: https://github.com/anuraghazra/github-readme-stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Username]&show_icons=true&theme=radical&icon_color=87CEFA&rank_icon=github" alt="GitHub Stats"> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?minh_nguyennhat=[minh_nguyennhat]&show_icons=true&theme=radical&icon_color=87CEFA&rank_icon=github" alt="GitHub Stats"> 
     
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Username]&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?minh_nguyennhat=[minh_nguyennhat]&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
   <br><br>
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Username]&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[minh_nguyennhat]&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats">
   <br><br>
   <!-- Contribution Graph -->
-  <!-- <img src="https://ghchart.rshah.org/[Username]" alt="Contribution Graph"> -->
+  <!-- <img src="https://ghchart.rshah.org/[minh_nguyennhat]" alt="Contribution Graph"> -->
   <!-- Hoặc dùng Activity Graph: https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Username]&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?minh_nguyennhat=[minh_nguyennhat]&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph"> -->
 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Username]&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?minh_nguyennhat=[minh_nguyennhat]&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views">
 </p>
 
 <br>
