@@ -33,3 +33,18 @@ jobs:
           git add .
           git commit -m "Generated snake animation"
           git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/minh-nguyennhat/minh-nguyennhat.git output
+
+        - name: Push changes to output branch
+          env:
+            GITHUB_TOKEN: ${{ secrets.PAT }}
+          run: |
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+            git checkout -b output
+            git add .
+            if [ -n "$(git status --porcelain)" ]; then
+              git commit -m "Generated snake animation"
+              git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/minh-nguyennhat/minh-nguyennhat.git output
+            else
+              echo "No changes to commit"
+            fi
