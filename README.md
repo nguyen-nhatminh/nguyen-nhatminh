@@ -79,7 +79,7 @@
 <!-- BLOG-POST-LIST:END -->
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/minh-nguyennhat/minh-nguyennhat/blob/output/github-contribution-grid-snake.svg)
     
 </div>
 
