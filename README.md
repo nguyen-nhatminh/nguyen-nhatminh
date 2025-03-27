@@ -1,74 +1,57 @@
-<p align="center">
-  <img src="[URL_DEN_ANH_BIA_CUA_BAN]" alt="Ảnh bìa profile" width="800"/>
-</p>
+# 👋 Hello, I'm Minh Nguyen Nhat!
 
-<h1 align="center">Xin chào 👋, tôi là Minh Nguyễn Nhật!</h1>
-<h3 align="center">Một [Lập trình viên / Sinh viên / Người đam mê công nghệ...] đến từ [Địa điểm của bạn, ví dụ: Việt Nam 🇻🇳]</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minh-nguyennhat&label=Profile%20views&color=orange&style=flat" alt="minh-nguyennhat" /> </p>
-
----
-
-## 👨‍💻 Về tôi:
-
-* 🔭 Hiện tại tôi đang làm việc trên **[Tên dự án hoặc công nghệ bạn đang tập trung]**
-* 🌱 Tôi đang học **[Ngôn ngữ / Framework / Công nghệ bạn đang học]**
-* 👯 Tôi đang tìm kiếm cơ hội hợp tác về **[Lĩnh vực hoặc loại dự án bạn muốn tham gia]**
-* 🤔 Tôi đang cần giúp đỡ về **[Vấn đề hoặc công nghệ bạn đang gặp khó khăn]** (Tùy chọn)
-* 💬 Hãy hỏi tôi về **[Chủ đề bạn tự tin chia sẻ, ví dụ: React, Python, DevOps...]**
-* 📫 Cách liên hệ với tôi: **[Địa chỉ email của bạn]**
-* ⚡ Sự thật thú vị: **[Một điều gì đó thú vị về bạn, sở thích ngoài công nghệ...]**
-
----
-
-## 🛠️ Kỹ năng & Công nghệ:
-
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> </a>
-
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/> </a>
-
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a>
-
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/> </a>
-</p>
-
----
-
-## 📊 Thống kê GitHub của tôi:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=minh-nguyennhat&color=dc143c&style=flat-square)](https://github.com/minh-nguyennhat)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minh-nguyennhat&show_icons=true&locale=en&theme=radical&count_private=true" alt="minh-nguyennhat's GitHub Stats" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minh-nguyennhat&show_icons=true&locale=en&layout=compact&theme=radical" alt="minh-nguyennhat's Top Languages" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minh-nguyennhat&theme=radical" alt="minh-nguyennhat's Contribution Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Blogger;Problem+Solver" alt="Typing SVG" />
 </p>
 
----
+## 🛠 Tech Stack
 
----
+### 📋 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📫 Kết nối với tôi:
+### 🖥 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="left">
-    <a href="https://linkedin.com/in/[TÊN_USER_LINKEDIN_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minh-nguyennhat-linkedin"/></a>
-    <a href="https://twitter.com/[TÊN_USER_TWITTER_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="minh-nguyennhat-twitter"/></a>
-    <a href="https://fb.com/[TÊN_USER_FACEBOOK_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="minh-nguyennhat-facebook"/></a>
-    <a href="mailto:[EMAIL_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="minh-nguyennhat-email"/></a>
-    <a href="[LINK_WEBSITE_PORTFOLIO_CUA_BAN]" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-Вебсайт-brightgreen?style=for-the-badge" alt="minh-nguyennhat-portfolio"/></a>
+### ⚙ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nest](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minh-nguyennhat&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh-nguyennhat&layout=compact&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minh-nguyennhat&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=minh-nguyennhat&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123] in [repository-name]
+2. 🚀 Released v1.0.0 of [project-name]
+3. 💪 Opened PR [#456] in [open-source-project]
+<!--END_SECTION:activity-->
+
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/minh-nguyennhat/minh-nguyennhat/blob/output/github-contribution-grid-snake.svg)
+
+## 💡 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [10 Tips for Better React Performance](https://yourblog.com/react-perf-tips)
+- [Mastering TypeScript Generics](https://yourblog.com/typescript-generics)
+- [CI/CD Pipeline Best Practices](https://yourblog.com/ci-cd-best-practices)
+<!-- BLOG-POST-LIST:END -->
