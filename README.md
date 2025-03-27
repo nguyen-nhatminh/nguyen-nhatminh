@@ -23,7 +23,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minh-nguyennhat&theme=radical" alt="GitHub Stats" height="165"/>
 </div>
 
 <div align="center">
@@ -79,9 +79,8 @@
 <!-- BLOG-POST-LIST:END -->
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/minh-nguyennhat/minh-nguyennhat/blob/output/github-contribution-grid-snake.svg)
+<img scr="https://github.com/minh-nguyennhat/minh-nguyennhat/blob/output/github-contribution-grid-snake.svg" height=165/>
     
-</div>
 
 ## 💖 Support My Work
 
