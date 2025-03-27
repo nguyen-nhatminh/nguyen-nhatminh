@@ -1,112 +1,161 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDE1MzIzNDlkN2NjMGYxNTlmODZiZjg3ZmNmNjk0ZDcxZjUwOGViYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Minh%20Nguyen&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%" alt="Header" />
+</div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2986CC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Minh+Nguyen+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+  </a>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
+</div>
+
+<h2>👨‍💻 About Me</h2>
+
+<div align="left">
+  <img align="right" src="https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fminh-nguyennhat%2Freadme" alt="Profile Views"/>
   
-  # Welcome to Minh Nguyen's Digital World 👋
-  
-  <p align="center">
-    <a href="https://github.com/minh-nguyennhat"><img src="https://img.shields.io/github/followers/minh-nguyennhat.svg?style=social&label=Follow&maxAge=2592000"/></a>
-    <img src="https://komarev.com/ghpvc/?username=minh-nguyennhat&label=Profile%20views&color=0e75b6&style=flat" alt="minh-nguyennhat" />
-    <a href="https://github.com/minh-nguyennhat"><img src="https://img.shields.io/github/stars/minh-nguyennhat?affiliations=OWNER%2CCOLLABORATOR&style=social"/></a>
-  </p>
-  
-  <p align="center">
-    <a href="https://tiktok.com/@yourname"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>
-    <a href="https://youtube.com/@yourname"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-    <a href="https://facebook.com/yourname"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  </p>
+  <p><b>🏆 GitHub Profile Trophy:</b></p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=minh-nguyennhat&theme=onedark&column=7" alt="GitHub Trophy" />
+  </a>
+
+  <p><b>🌱 I've been on GitHub for:</b> <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Days%20on%20GitHub&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fminh-nguyennhat%2Fdays" alt="GitHub Days Badge"/></p>
+</div>
+
+<h2>🎯 Fun Facts About Me</h2>
+
+- 🚀 I write code while listening to lofi music
+- 🌏 I love exploring new technologies and frameworks
+- ☕ Coffee enthusiast and occasional tech blogger
+- 🎮 When not coding, I enjoy gaming and photography
+- 📚 Lifelong learner, constantly improving my skills
+
+<h2>🛠️ My Tech Stack</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minh-nguyennhat&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh-nguyennhat&layout=compact&theme=react" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minh-nguyennhat&theme=react" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=minh-nguyennhat&theme=react-dark" alt="Activity Graph" />
+  </a>
 </div>
 
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minh-nguyennhat&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minh-nguyennhat&theme=radical" width="400"/>
-</p>
+<h2>📌 My Featured Projects</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minh-nguyennhat&theme=react-dark" width="800"/>
-</p>
-
-## 👨‍💻 Developer Card
-<p align="center">
-  <img src="https://api.daily.dev/devcards/v2/default.png?r=zpj&userId=minh-nguyennhat" width="356" alt="Minh Nguyen's Dev Card"/>
-</p>
-
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
-## 🏆 Level System
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minh-nguyennhat&theme=onedark&row=1&column=6" width="800"/>
-</p>
-
-## 🔥 Fun Facts 
-- 🌱 I have been on GitHub for **<img src="https://img.shields.io/github/created-at/minh-nguyennhat/minh-nguyennhat?label=&style=flat&color=green"/>** days
-- 🚀 I've written over 1,000,000 lines of code (and deleted half of them!)
-- 🎮 When I'm not coding, I'm probably gaming or exploring new tech
-- 🌍 I speak multiple programming languages and a few human ones too
-
-## 📈 Coding Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minh-nguyennhat&layout=compact&theme=radical" width="500"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1.2k-blue"/>
-  <img src="https://img.shields.io/badge/Completed%20Issues-352-brightgreen"/>
-  <img src="https://img.shields.io/badge/Pull%20Requests-420-orange"/>
-</p>
-
-## 📂 Featured Projects
-<p align="center">
+<div align="center">
   <a href="https://github.com/minh-nguyennhat/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=project1&theme=radical" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=project1&theme=react" alt="Project 1" />
   </a>
   <a href="https://github.com/minh-nguyennhat/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=project2&theme=radical" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=project2&theme=react" alt="Project 2" />
   </a>
-</p>
+</div>
 
-## 📝 Latest Blog Posts
+<h2>👨‍💻 Dev Level System</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minh-nguyennhat&layout=compact&langs_count=8&theme=react" alt="Languages" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Level-Senior%20Developer-success" alt="Developer Level" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-5%20Years-blue" alt="Experience" />
+</div>
+
+<h2>🧮 Code Metrics</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Lines%20of%20Code&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fminh-nguyennhat%2Flines" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Commits&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fminh-nguyennhat%2Fcommits" alt="Commits" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Issues%20Resolved&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fminh-nguyennhat%2Fissues" alt="Issues Resolved" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Pull%20Requests&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fminh-nguyennhat%2Fprs" alt="Pull Requests" />
+</div>
+
+<h2>🪪 Developer ID Card</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minh-nguyennhat&theme=github_dark" alt="GitHub ID Card" />
+</div>
+
+<h2>📝 Latest Blog Posts</h2>
+
 <!-- BLOG-POST-LIST:START -->
-- Loading...
+<!-- This section will be auto-updated by the GitHub Action -->
 <!-- BLOG-POST-LIST:END -->
 
-## 💖 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/minh-nguyennhat">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=minh-nguyennhat&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" width="200"/>
-  </a>
-</p>
+<h2>🔗 Connect With Me</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAwOGMwMjJkNjhmY2IzNzRhMmE2MDA2NjEzYjBhMmVkMWE5NDkzYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
+  <a href="https://www.tiktok.com/@minh-nguyennhat" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.youtube.com/channel/your-channel-id" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-<p align="center">
+<h2>☕ Support My Work</h2>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/minh-nguyennhat?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/minh-nguyennhat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow"/>
+    <img src="https://img.shields.io/github/followers/minh-nguyennhat?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  <a href="https://github.com/sponsors/minh-nguyennhat">
-    <img src="https://custom-icon-badges.demolab.com/badge/Sponsor-pink?style=for-the-badge&logo=heart&logoColor=white" alt="Sponsor"/>
+  <a href="https://github.com/sponsors/minh-nguyennhat" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=GitHub&style=social" alt="GitHub Sponsor" />
   </a>
-</p>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/minh-nguyennhat/minh-nguyennhat/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<div align="center">
+  <img src="https://github.com/minh-nguyennhat/minh-nguyennhat/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<!--
+This README is set up with GitHub Actions for:
+1. Blog post updates (if you have a blog feed)
+2. Snake animation contribution chart
+-->
