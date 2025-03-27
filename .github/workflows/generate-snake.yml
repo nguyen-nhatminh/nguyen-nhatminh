@@ -1,0 +1,51 @@
+name: Generate Snake Animation
+
+on:
+  # Chạy tự động mỗi 6 giờ
+  schedule:
+    - cron: "0 */6 * * *" # Bạn có thể thay đổi tần suất nếu muốn
+
+  # Cho phép chạy thủ công từ tab Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3 # Sử dụng action snk phiên bản 3
+        with:
+          # ID người dùng GitHub mà bạn muốn tạo animation
+          github_user_name: ${{ github.repository_owner }} # Tự động lấy username từ repo owner
+
+          # Danh sách các file output
+          # File cho theme sáng
+          outputs: dist/github-contribution-grid-snake.svg
+          # File cho theme tối (thêm ?palette=github-dark)
+          # outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+          # Nếu bạn muốn cả 2 theme, dùng định dạng sau:
+          # outputs: |
+          #   dist/github-contribution-grid-snake.svg
+          #   dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+          # Bạn có thể thêm các tùy chọn khác nếu muốn, ví dụ:
+          # color_snake: "#00b4d8" # Màu con rắn
+          # color_dots: "#e2e2e2,#c6e48b,#7bc96f,#239a3b,#196127" # Màu các ô contribution
+
+      # (Chỉ cần nếu bạn dùng 2 theme) - Bước này đổi tên file để phù hợp với Markdown phía trên
+      # - name: Rename Snake Dark SVG
+      #   run: mv dist/github-contribution-grid-snake-dark.svg?palette=github-dark dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push changes
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Chi nhánh bạn muốn commit file SVG vào (thường là main hoặc master)
+          target_branch: output # Tạo một nhánh mới tên là 'output' để chứa SVG
+          build_dir: dist # Thư mục chứa file SVG đã tạo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
