@@ -77,10 +77,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- This section will be automatically updated by GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
-## 🐍 Snake Animation
 
-<img scr="https://github.com/minh-nguyennhat/minh-nguyennhat/blob/output/github-contribution-grid-snake.svg" height=165/>
-    
 
 ## 💖 Support My Work
 
