@@ -1,7 +1,7 @@
 name: Generate Snake Contribution Grid
 on:
   schedule:
-    - cron: "0 0 * * *"  # Chạy mỗi ngày
+    - cron: "0 0 * * *"  # Chạy tự động mỗi ngày
   workflow_dispatch:  # Cho phép chạy thủ công
 
 jobs:
@@ -26,4 +26,3 @@ jobs:
           git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git main
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-
