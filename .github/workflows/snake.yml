@@ -1,50 +1,26 @@
-name: Generate Snake Animation
-
+name: Generate Snake Contribution Grid
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Chạy mỗi ngày
+  workflow_dispatch:  # Cho phép chạy thủ công
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
+      - name: Generate contribution grid snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and push if changed
         run: |
-          # Your commands to generate the animation
-          echo "Snake animation generated."
-
-      - name: Push changes to output branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git checkout -b output
-          git add .
-          git commit -m "Generated snake animation"
-          git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/minh-nguyennhat/minh-nguyennhat.git output
-
-        - name: Push changes to output branch
-          env:
-            GITHUB_TOKEN: ${{ secrets.PAT }}
-          run: |
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git config --global user.name "github-actions[bot]"
-            git checkout -b output
-            git add .
-            if [ -n "$(git status --porcelain)" ]; then
-              git commit -m "Generated snake animation"
-              git push --force https://x-access-token:${GITHUB_TOKEN}@github.com/minh-nguyennhat/minh-nguyennhat.git output
-            else
-              echo "No changes to commit"
-            fi
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add -A
+          git commit -m "Updated contribution grid snake" || exit 0
+          git push
