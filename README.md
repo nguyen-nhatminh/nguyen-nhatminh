@@ -1,3 +1,6 @@
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/minh-nguyennhat/minh-nguyennhat/output/github-contribution-grid-snake.svg)
+
+
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh4NWRrY3d1cnJ0dm16bzgzb3BzMThrZXcyeXc4cTFscnlvODk5NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </p>
