@@ -1,4 +1,4 @@
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/minh-nguyennhat/minh-nguyennhat/dist/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/minh-nguyennhat/minh-nguyennhat/refs/heads/main/dist/github-contribution-grid-snake.svg)
 
 
 <div align="center">
