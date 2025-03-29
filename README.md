@@ -36,7 +36,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minh-nguyennhat&theme=react-dark" alt="GitHub Activity Graph">
 </div>
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/minh-nguyennhat/minh-nguyennhat/refs/heads/main/dist/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/minh-nguyennhat/minh-nguyennhat/refs/heads/main/dist/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
 
 
 ## 💻 Tech Stack
