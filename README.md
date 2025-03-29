@@ -68,12 +68,6 @@
   <a href="https://github.com/minh-nguyennhat/DaiViet-Tool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=DaiViet-Tool&theme=tokyonight" />
   </a>
-  <a href="https://github.com/minh-nguyennhat/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=project-2&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/minh-nguyennhat/project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=project-3&theme=tokyonight" />
-  </a>
 </div>
 
 
@@ -86,7 +80,7 @@
 ## 💖 Support My Work
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://www.buymeacoffee.com/nguyennhatminh" target="_blank">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourusername&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" />
   </a>
 </div>
