@@ -37,7 +37,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minh-nguyennhat&theme=react-dark" alt="GitHub Activity Graph">
 </div>
 
-
 ## 💻 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
