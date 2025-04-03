@@ -73,7 +73,6 @@
 <!-- This section will be automatically updated by GitHub Actions -->
 <!-- BLOG-POST-LIST:END -->
 
-
 ## 💖 Support My Work
 
 <div align="center">
