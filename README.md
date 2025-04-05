@@ -53,7 +53,6 @@
 
 
 
-
 ## 🎮 Developer Level System
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minh-nguyennhat&theme=nord&column=7" alt="trophy">
