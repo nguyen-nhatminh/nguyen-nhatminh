@@ -30,7 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh-nguyennhat&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165"/>
 </div>
 
-
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/minh-nguyennhat/minh-nguyennhat/refs/heads/main/dist/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
