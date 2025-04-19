@@ -8,7 +8,6 @@
   </a>
 </h1>
 
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=minh-nguyennhat&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/minh-nguyennhat?label=Followers&style=social" alt="GitHub Followers"/>
