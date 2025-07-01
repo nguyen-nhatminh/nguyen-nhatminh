@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=minh-nguyennhat&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/nhatminh-nguyen?label=Followers&style=social" alt="GitHub Followers"/>
-  <a href="https://github.com/nhatminh-nguyen/nhatminh-nguyen/stargazers"><img src="https://img.shields.io/github/stars/minh-nguyennhat/nhatminh-nguyen" alt="Stars Badge"/></a>
+  <a href="https://github.com/nhatminh-nguyen/nhatminh-nguyen/stargazers"><img src="https://img.shields.io/github/stars/nhatminh-nguyen/nhatminh-nguyen" alt="Stars Badge"/></a>
 </div>
 
 <div align="center">
