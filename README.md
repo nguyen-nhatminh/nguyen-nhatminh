@@ -10,8 +10,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=minh-nguyennhat&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/minh-nguyennhat?label=Followers&style=social" alt="GitHub Followers"/>
-  <a href="https://github.com/minh-nguyennhat/minh-nguyennhat/stargazers"><img src="https://img.shields.io/github/stars/minh-nguyennhat/minh-nguyennhat" alt="Stars Badge"/></a>
+  <img src="https://img.shields.io/github/followers/nhatminh-nguyen?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/nhatminh-nguyen/nhatminh-nguyen/stargazers"><img src="https://img.shields.io/github/stars/minh-nguyennhat/nhatminh-nguyen" alt="Stars Badge"/></a>
 </div>
 
 <div align="center">
@@ -22,18 +22,18 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minh-nguyennhat&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhatminh-nguyen&theme=radical" alt="GitHub Stats" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minh-nguyennhat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minh-nguyennhat&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nhatminh-nguyen&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatminh-nguyen&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165"/>
 </div>
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/minh-nguyennhat/minh-nguyennhat/refs/heads/main/dist/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/nhatminh-nguyen/nhatminh-nguyen/refs/heads/main/dist/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minh-nguyennhat&theme=react-dark" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhatminh-nguyen&theme=react-dark" alt="GitHub Activity Graph">
 </div>
 
 ## 💻 Tech Stack
@@ -52,14 +52,14 @@
 
 ## 🎮 Developer Level System
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minh-nguyennhat&theme=nord&column=7" alt="trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nhatminh-nguyen&theme=nord&column=7" alt="trophy">
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/minh-nguyennhat/DaiViet-Tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=minh-nguyennhat&repo=DaiViet-Tool&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhatminh-nguyen&repo=DaiViet-Tool&theme=tokyonight" />
   </a>
 </div>
 
@@ -77,10 +77,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/minh-nguyennhat?tab=followers">
-    <img src="https://img.shields.io/github/followers/minh-nguyennhat?label=Follow&style=social" alt="GitHub Follow" />
+  <a href="https://github.com/nhatminh-nguyen?tab=followers">
+    <img src="https://img.shields.io/github/followers/nhatminh-nguyen?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  <a href="https://github.com/sponsors/minh-nguyennhat">
+  <a href="https://github.com/sponsors/nhatminh-nguyen">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="GitHub Sponsor" />
   </a>
 </div>
